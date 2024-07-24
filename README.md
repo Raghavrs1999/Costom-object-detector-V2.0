@@ -26,8 +26,8 @@ For a complete list of dependencies, see the `requirements.txt` file.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/custom-object-detector-v2.git
-   cd custom-object-detector-v2
+   git clone https://github.com/Raghavrs1999/Custom-Object-Detector-V2.0.git
+   cd Custom-Object-Detector-V2.0
    ```
 
 2. Install the required packages:
@@ -37,7 +37,7 @@ For a complete list of dependencies, see the `requirements.txt` file.
 
 3. Download the YOLOv5 model weights (if not included in the repository):
    ```
-   wget https://github.com/ultralytics/yolov5/releases/download/v6.0/yolov5m6.pt -O dnn_model/yolov5m6.pt
+   wget https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5m6.pt
    ```
 
 ## Usage
